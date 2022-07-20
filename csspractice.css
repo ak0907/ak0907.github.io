@@ -1,0 +1,19 @@
+header {
+    float:left; 
+    min-width:100%;
+    letter-spacing: 1em;
+}
+
+footer {
+    float:left;
+    min-width:100%;
+    letter-spacing: 2em;
+}
+
+#left {
+    margin-left: 15px;
+}
+
+#right {
+    margin-right: 45px;
+}
